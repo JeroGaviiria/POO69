@@ -25,11 +25,11 @@
   <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 9h16.5m-16.5 6.75h16.5" />
   </svg>01 Class</a>
 
-                <a href="" class="bg-purple-400/100 px-4 py-2 w-[250px] rounded flex gap-2 hover:bg-purple-600/70 hover:scale-105"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+                <a href="02-construct.php" class="bg-purple-400/100 px-4 py-2 w-[250px] rounded flex gap-2 hover:bg-purple-600/70 hover:scale-105"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
   <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 9h16.5m-16.5 6.75h16.5" />
   </svg>02 Construct</a>
 
-                <a href="" class="bg-purple-400 px-4 py-2 w-[250px] rounded flex gap-2 hover:bg-purple-600/70 hover:scale-105"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+                <a href="03-private.php" class="bg-purple-400 px-4 py-2 w-[250px] rounded flex gap-2 hover:bg-purple-600/70 hover:scale-105"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
   <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 9h16.5m-16.5 6.75h16.5" />
   </svg>03 Private</a>
 
